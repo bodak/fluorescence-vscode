@@ -1,0 +1,29 @@
+{
+    "name": "fluorescence",
+    "displayName": "Fluorescence",
+    "description": "",
+    "version": "1.0.0",
+    "publisher": "bodak",
+    "engines": {
+        "vscode": "^1.28.0"
+    },
+    "author": {
+        "name": "Kristian Boda"
+    },
+    "repository": {
+        "url": "https://github.com/bodak/fluorescence-vscode",
+        "type": "git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Fluorescence",
+                "uiTheme": "vs-dark",
+                "path": "./themes/fluorescence.json"
+            }
+        ]
+    }
+}
