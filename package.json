@@ -1,19 +1,24 @@
 {
     "name": "fluorescence",
     "displayName": "Fluorescence",
-    "description": "",
-    "version": "1.0.2",
+    "description": "Fluorescence inspired theme for Visual Studio Code",
+    "version": "1.0.3",
     "publisher": "bodak",
     "engines": {
         "vscode": "^1.28.0"
     },
     "author": {
-        "name": "Kristian Boda"
+        "name": "Kristian Boda",
+        "url": "https://bodak.github.io"
     },
     "repository": {
         "url": "https://github.com/bodak/fluorescence-vscode",
         "type": "git"
     },
+    "bugs": {
+        "url": "https://github.com/bodak/fluorescence-vscode/issues"
+    },
+    "icon": "icon.png",
     "categories": [
         "Themes"
     ],
